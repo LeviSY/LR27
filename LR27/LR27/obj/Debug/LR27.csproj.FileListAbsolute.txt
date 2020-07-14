@@ -1,0 +1,9 @@
+C:\Users\Levi\source\repos\LR27\LR27\bin\Debug\LR27.exe.config
+C:\Users\Levi\source\repos\LR27\LR27\bin\Debug\LR27.exe
+C:\Users\Levi\source\repos\LR27\LR27\bin\Debug\LR27.pdb
+C:\Users\Levi\source\repos\LR27\LR27\obj\Debug\LR27.csprojAssemblyReference.cache
+C:\Users\Levi\source\repos\LR27\LR27\obj\Debug\LR27.Form1.resources
+C:\Users\Levi\source\repos\LR27\LR27\obj\Debug\LR27.Properties.Resources.resources
+C:\Users\Levi\source\repos\LR27\LR27\obj\Debug\LR27.csproj.GenerateResource.cache
+C:\Users\Levi\source\repos\LR27\LR27\obj\Debug\LR27.exe
+C:\Users\Levi\source\repos\LR27\LR27\obj\Debug\LR27.pdb
